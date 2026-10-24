@@ -13,7 +13,7 @@ de apps para TV a ferramentas de desempenho no Windows e sistemas web completos.
 
 <p align="center">
   <a href="https://github.com/FabioMatheusDev/orla-os"><img src="assets/orla.svg" width="49%" alt="orla: tela inicial para TVs, open source"></a>
-  <a href="https://nexusboostweb.vercel.app"><img src="assets/nexus-boost.svg" width="49%" alt="Nexus Boost: desempenho no Windows para jogos competitivos"></a>
+  <a href="https://nexusboost.app"><img src="assets/nexus-boost.svg" width="49%" alt="Nexus Boost: desempenho no Windows para jogos competitivos"></a>
 </p>
 <p align="center">
   <img src="assets/nexus-lhm.svg" width="49%" alt="Nexus LHM: gestão de lan houses">
@@ -24,7 +24,7 @@ de apps para TV a ferramentas de desempenho no Windows e sistemas web completos.
 </p>
 
 <sub>Os projetos marcados como privados têm código fechado. O Nexus Boost tem site público em
-[nexusboostweb.vercel.app](https://nexusboostweb.vercel.app).</sub>
+[nexusboost.app](https://nexusboost.app).</sub>
 
 ## Ferramentas
 

@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Fábio Matheus · Infraestrutura, dados e software">
 
-**Analista de Infraestrutura na Pantanal Agrícola · estudante de Administração de Redes · Brasil**
+**Analista de Desenvolvimento de Software na Pantanal Agrícola · Formado em Engenharia da Computação · Brasil**
 
 Cuido de redes, servidores e dados no dia a dia, e no tempo livre construo software:<br>
 de apps para TV a ferramentas de desempenho no Windows e sistemas web completos.

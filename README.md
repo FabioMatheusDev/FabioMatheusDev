@@ -11,15 +11,13 @@
 ## Sobre mim
 
 Engenheiro da Computação e Analista de Desenvolvimento de Software no agronegócio. Escrevo os
-sistemas que a empresa usa no dia a dia, integrados ao SAP Business One, como o
-[portal de relatórios](https://github.com/FabioMatheusDev/projeto-Portal-Relatorios-Pantanal), e
-trabalho os dados por trás deles com Python e SQL. Antes do desenvolvimento, passei pela
-infraestrutura: rede e servidores, e esse lado continua presente no que construo.
+sistemas que a empresa usa no dia a dia, integrados ao SAP Business One, e trabalho os dados 
+por trás deles com Python e SQL. Antes do desenvolvimento, passei pela infraestrutura: 
+rede e servidores, e esse lado continua presente no que construo.
 
 Hoje levo projetos de ponta a ponta, do código que fala com o hardware até o site que vende:
 
-- **Sistemas e desempenho.** Serviços Windows em C#/.NET e C++, ajuste fino de CPU e GPU, e
-  sempre um jeito seguro de desfazer cada mudança.
+- **Sistemas e desempenho.** Serviços Windows em C#/.NET.
 - **Produto completo.** Contas, licenças, pagamentos (Stripe, PIX), painel administrativo e
   auditoria, não só a tela bonita.
 - **Interfaces que rodam em qualquer aparelho.** Da tela inicial da TV, medida quadro a quadro

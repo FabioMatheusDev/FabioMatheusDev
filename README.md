@@ -1,13 +1,33 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Fábio Matheus · Infraestrutura, dados e software">
+<img src="assets/header.svg" width="100%" alt="Fábio Matheus · Software, dados e infraestrutura">
 
 **Analista de Desenvolvimento de Software na Pantanal Agrícola · Formado em Engenharia da Computação · Brasil**
 
-Cuido de redes, servidores e dados no dia a dia, e no tempo livre construo software:<br>
-de apps para TV a ferramentas de desempenho no Windows e sistemas web completos.
+<a href="https://www.linkedin.com/in/fabiomatheuscba/"><img src="https://img.shields.io/badge/LinkedIn-fabiomatheuscba-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
+
+## Sobre mim
+
+Engenheiro da Computação e Analista de Desenvolvimento de Software no agronegócio. Escrevo os
+sistemas que a empresa usa no dia a dia, integrados ao SAP Business One, como o
+[portal de relatórios](https://github.com/FabioMatheusDev/projeto-Portal-Relatorios-Pantanal), e
+trabalho os dados por trás deles com Python e SQL. Antes do desenvolvimento, passei pela
+infraestrutura: rede e servidores, e esse lado continua presente no que construo.
+
+Hoje levo projetos de ponta a ponta, do código que fala com o hardware até o site que vende:
+
+- **Sistemas e desempenho.** Serviços Windows em C#/.NET e C++, ajuste fino de CPU e GPU, e
+  sempre um jeito seguro de desfazer cada mudança.
+- **Produto completo.** Contas, licenças, pagamentos (Stripe, PIX), painel administrativo e
+  auditoria, não só a tela bonita.
+- **Interfaces que rodam em qualquer aparelho.** Da tela inicial da TV, medida quadro a quadro
+  num Fire TV Stick, a sites com animação guiada pela rolagem.
+- **Infra de verdade.** Redes, MikroTik, Wake-on-LAN, cache local de jogos: o que aprendi no
+  trabalho virou funcionalidade nos meus projetos.
+
+Gosto de problema concreto, número medido e código que outra pessoa consegue manter.
 
 ## Projetos
 

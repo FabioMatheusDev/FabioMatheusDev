@@ -20,11 +20,11 @@ de apps para TV a ferramentas de desempenho no Windows e sistemas web completos.
   <img src="assets/prospector.svg" width="49%" alt="Prospector: CRM de prospecção comercial">
 </p>
 <p align="center">
-  <img src="assets/velaris.svg" width="49%" alt="Velaris: site de estúdio de engenharia digital">
+  <a href="https://velarisdev.com.br"><img src="assets/velaris.svg" width="49%" alt="Velaris: site de estúdio de engenharia digital"></a>
 </p>
 
-<sub>Os projetos marcados como privados têm código fechado. O Nexus Boost tem site público em
-[nexusboost.app](https://nexusboost.app).</sub>
+<sub>Os projetos marcados como privados têm código fechado. Sites: [nexusboost.app](https://nexusboost.app)
+· [velarisdev.com.br](https://velarisdev.com.br).</sub>
 
 ## Ferramentas
 
